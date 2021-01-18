@@ -1,0 +1,7 @@
+function finePerimeter(value1,value2){
+    const result = 2*(value1+value2);
+    return result;
+}
+console.log(finePerimeter(6,7));
+console.log(finePerimeter(20,10));
+console.log(finePerimeter(2,9));
